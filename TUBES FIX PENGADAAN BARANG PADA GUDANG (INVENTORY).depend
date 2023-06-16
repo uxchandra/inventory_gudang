@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686837617 source:d:\c\tubes fix pengadaan barang pada gudang (inventory)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
